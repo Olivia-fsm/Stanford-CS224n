@@ -1,0 +1,1 @@
+(function(_ds){var window=this;'use strict';try{window.customElements.define("devsite-tabs",_ds.Wy)}catch(a){console.warn("devsite.app.customElement.DevsiteTabs",a)};})(_ds_www);
